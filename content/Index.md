@@ -4,8 +4,8 @@ draft: false
 tags:
 ---
  
-The rest of your content lives here. You can use **Markdown** here :)
+**Welcome!**
 
+This is the homepage for Luke's DnD canon notes for reference.
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+For now you can start at the Stormwreck Isle notes at [[Stormwreck Isle]]
