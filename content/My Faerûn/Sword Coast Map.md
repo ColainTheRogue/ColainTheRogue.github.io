@@ -1,4 +1,11 @@
 ---
+title: Sword Coast Map
+draft: false
+tags:
+  - campaign_1
+---
+
+---
 mapCalc1: NaN
 ---
 [[Sword-Coast-Map_HighRes.jpg]]
