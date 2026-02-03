@@ -14,10 +14,15 @@ coral horns - grey hair with pearls - visually 25 - leather armour
 
 Jem - **Gimothy Fatfood** - Dwarf - cleric
 visually 40 - firey red hair & beard - armour
+![[Gimothy Fatfood.jpeg]]
 
 Jack - **Gerald Whitburn** - human - paladin - armour
 
 Grace - **Wace Gratson** halfling - rogue
+
+Tegan - **Seren Hawthorn**
+![[Seren Hawthorn.jpeg]]
+
 
 ## Dragons Reach - Temple for Bahamut
 Runara main keeper of the temple
@@ -35,4 +40,4 @@ Tanak, Vanoth and kobolds maintaining offerings
 protective magic
 
 ## Wreck of the Compass Rose
-things are worse since this
+Things are worse since this
