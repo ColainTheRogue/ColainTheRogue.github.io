@@ -14,6 +14,7 @@ coral horns - grey hair with pearls - visually 25 - leather armour
 
 Jem - **Gimothy Fatfood** - Dwarf - cleric
 visually 40 - firey red hair & beard - armour
+
 ![[Gimothy Fatfood.jpeg]]
 
 Jack - **Gerald Whitburn** - human - paladin - armour
@@ -21,6 +22,7 @@ Jack - **Gerald Whitburn** - human - paladin - armour
 Grace - **Wace Gratson** halfling - rogue
 
 Tegan - **Seren Hawthorn**
+
 ![[Seren Hawthorn.jpeg]]
 
 
