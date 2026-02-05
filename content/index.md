@@ -6,6 +6,6 @@ tags:
  
 **Welcome!**
 
-This is the homepage for Luke's DnD canon notes for reference.
+This is the homepage for Luke's DnD notes for reference. This will be updated with canon events and player notes (if supplied with permission).
 
-For now you can start at the Stormwreck Isle notes at [[Stormwreck Isle]]
+For now you can start at the Stormwreck Isle player notes at [[Stormwreck Isle Campaign]]
